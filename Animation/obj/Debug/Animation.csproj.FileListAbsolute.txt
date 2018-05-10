@@ -1,0 +1,21 @@
+E:\OneDrive\Documents\Visual Studio 2017\Projects\Animation\Animation\obj\Debug\Animation.Properties.Resources.resources
+E:\OneDrive\Documents\Visual Studio 2017\Projects\Animation\Animation\obj\Debug\Animation.csproj.GenerateResource.Cache
+E:\OneDrive\Documents\Visual Studio 2017\Projects\Animation\Animation\bin\Debug\Animation.exe.config
+E:\OneDrive\Documents\Visual Studio 2017\Projects\Animation\Animation\bin\Debug\Animation.exe
+E:\OneDrive\Documents\Visual Studio 2017\Projects\Animation\Animation\bin\Debug\Animation.pdb
+E:\OneDrive\Documents\Visual Studio 2017\Projects\Animation\Animation\obj\Debug\Animation.AnimationCtrl.resources
+E:\OneDrive\Documents\Visual Studio 2017\Projects\Animation\Animation\obj\Debug\Animation.exe
+E:\OneDrive\Documents\Visual Studio 2017\Projects\Animation\Animation\obj\Debug\Animation.pdb
+E:\OneDrive\Documents\Visual Studio 2017\Projects\Animation\Animation\obj\Debug\Animation.Form1.resources
+E:\OneDrive\Documents\Visual Studio 2017\Projects\Animation\Animation\obj\Debug\Animation.csprojResolveAssemblyReference.cache
+C:\Users\Minh Thanh\Downloads\Programs\Animation\Animation\bin\Debug\Animation.exe.config
+C:\Users\Minh Thanh\Downloads\Programs\Animation\Animation\bin\Debug\Animation.exe
+C:\Users\Minh Thanh\Downloads\Programs\Animation\Animation\bin\Debug\Animation.pdb
+C:\Users\Minh Thanh\Downloads\Programs\Animation\Animation\obj\Debug\Animation.csprojResolveAssemblyReference.cache
+C:\Users\Minh Thanh\Downloads\Programs\Animation\Animation\obj\Debug\Animation.AnimationCtrl.resources
+C:\Users\Minh Thanh\Downloads\Programs\Animation\Animation\obj\Debug\Animation.Form1.resources
+C:\Users\Minh Thanh\Downloads\Programs\Animation\Animation\obj\Debug\Animation.Properties.Resources.resources
+C:\Users\Minh Thanh\Downloads\Programs\Animation\Animation\obj\Debug\Animation.csproj.GenerateResource.Cache
+C:\Users\Minh Thanh\Downloads\Programs\Animation\Animation\obj\Debug\Animation.csproj.CoreCompileInputs.cache
+C:\Users\Minh Thanh\Downloads\Programs\Animation\Animation\obj\Debug\Animation.exe
+C:\Users\Minh Thanh\Downloads\Programs\Animation\Animation\obj\Debug\Animation.pdb
